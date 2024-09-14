@@ -1,0 +1,7 @@
+[project]
+name = "nickson"
+version = "0.1.0"
+description = "Stuff I keep finding myself using"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
